@@ -1,0 +1,11 @@
+div {
+    background-color:darkorange;
+    width: 100%;
+
+}
+div div {
+    background-color:tomato;
+    width: 45%;
+    padding: 2.5%;
+    float: left;
+}

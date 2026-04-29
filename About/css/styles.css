@@ -1,0 +1,32 @@
+img {
+    width: 50%;
+}
+main {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+
+header {
+    text-align: center;
+}
+section{
+    background-color:aqua 
+    height: 300px;
+}
+
+p {
+    width: 46%;
+    padding: 0px 2%;
+    float: left;
+    text-align: left;
+}
+nav a{
+    padding: 0px 50px;
+    background-color:yellow;
+
+}
+nav a:hoover {
+    background-color:lawngreen{12,153,12};
+}
