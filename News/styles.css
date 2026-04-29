@@ -1,0 +1,23 @@
+button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2em;
+}
+.left, .right{
+    width: 30%;
+    float: left;
+}
+.middle{
+    width: 40%;
+    float: left;
+}
+.group div{
+    width:33%;
+    float: left;
+}
+.group img{
+    width: 200px;
+}
